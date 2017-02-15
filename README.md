@@ -1,1 +1,0 @@
-https://travis-ci.org/Sherman-Lee/Temperature.svg?branch=master
